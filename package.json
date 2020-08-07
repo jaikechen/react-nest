@@ -33,7 +33,7 @@
     "@sendgrid/mail": "^7.2.2",
     "azure-storage": "^2.10.3",
     "bcryptjs": "^2.4.3",
-    "class-transformer": "^0.2.3",
+    "class-transformer": "^0.3.1",
     "class-validator": "^0.12.2",
     "mssql": "5.1.1",
     "node-excel-export": "^1.4.4",
